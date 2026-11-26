@@ -26,7 +26,7 @@ highlights:
     - "3rd Place — Eurekathon (DSU) · CoFarm"
     - "Round 2 Qualifier — Manthan Innovation Challenge 2026"
     - "Global Nominee — NASA International Space Apps Challenge"
-    - "Participant — IBM Hackathon (watsonx Orchestrate)"
+    - "Participant — IBM Hackathon"
 ```
 
 ---
