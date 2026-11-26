@@ -1,0 +1,17 @@
+<svg width="850" height="72" viewBox="0 0 850 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  </style>
+  <rect x="1" y="1" width="848" height="70" rx="10" fill="#070b12" stroke="url(#footGrad)" stroke-width="1.2"/>
+  <rect x="16" y="22" width="76" height="28" rx="6" fill="#00f5d4"/>
+  <text x="29" y="40" class="mono" font-size="12" font-weight="800" fill="#070b12">NORMAL</text>
+  <text x="108" y="40" class="mono" font-size="12" fill="#94a3b8">~/mohammed-Araf/README.md</text>
+  <text x="605" y="40" class="mono" font-size="12" fill="#64748b">utf-8 · :wq · bangalore, in</text>
+</svg>
